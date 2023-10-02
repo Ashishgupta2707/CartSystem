@@ -48,7 +48,9 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": ["https://i.dummyjson.com/data/products/3/1.jpg"]
+      "images": [
+        "https://i.dummyjson.com/data/products/3/1.jpg"
+      ]
     },
     {
       "id": 4,
@@ -549,6 +551,40 @@
         "https://i.dummyjson.com/data/products/30/3.jpg",
         "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
       ]
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "brand": "Apple",
+      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+      "price": 549,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "brand": "Apple",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "price": 899,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "brand": "Samsung",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+      "price": 1249,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "brand": "OPPO",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "price": 280,
+      "quantity": 1
     }
   ]
 }
